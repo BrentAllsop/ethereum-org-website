@@ -39,7 +39,7 @@ Hundreds of thousands of Ethereum enthusiasts gather in these online forums to s
     - [List of influential Ethereum twitter accounts](https://hive.one/ethereum/)
   - [Canonizer](https://canonizer.com)  Consensus building and tracking tool
     - [Ethereum Consensus Project](https://canonizer.com/topic/210-Ethereum-Consensus-Project/1)
-    - For things like building and tracking consensus arround your EIP.  Canonizer experts can help you with this.
+    - Building and tracking consensus arround your EIP.
 
 ## Upcoming events {#upcoming-events}
 
