@@ -34,9 +34,12 @@ Hundreds of thousands of Ethereum enthusiasts gather in these online forums to s
 - Chat rooms
   - [Ethereum Gitter](https://gitter.im/ethereum/home) - _chat room for the Ethereum github repo_
   - [Ethereum Cat Herders](https://gitter.im/ethereum-cat-herders/community?source=orgpage) - _community oriented around offering project management support to Ethereum development_
-- Twitter
+- Other
   - The ethereum community is very active on twitter - not sure where to start?
     - [List of influential Ethereum twitter accounts](https://hive.one/ethereum/)
+  - [Canonizer](https://canonizer.com)  Consensus building and tracking tool
+    - [Ethereum Consensus Project](https://canonizer.com/topic/210-Ethereum-Consensus-Project/1)
+    - For things like building and tracking consensus arround your EIP.  Canonizer experts can help you with this.
 
 ## Upcoming events {#upcoming-events}
 
