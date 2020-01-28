@@ -37,7 +37,7 @@ Hundreds of thousands of Ethereum enthusiasts gather in these online forums to s
 - Other
   - The ethereum community is very active on twitter - not sure where to start?
     - [List of influential Ethereum twitter accounts](https://hive.one/ethereum/)
-  - [Canonizer](https://canonizer.com)  Consensus building and tracking tool
+  - [Canonizer](https://canonizer.com) - Consensus building and tracking tool
     - [Ethereum Consensus Project](https://canonizer.com/topic/210-Ethereum-Consensus-Project/1)
     - Building and tracking consensus around your favorite EIPs
 
